@@ -1,0 +1,29 @@
+
+.colum2 {
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    padding: 0 0 0 20%;
+}
+
+.text{
+    margin: 4rem;
+    color: black;
+}
+
+.content{
+    font-size: 0.8rem;
+    display: flex;
+    align-items: center;
+    color: gray;
+}
+
+.linegreen{
+    height: 10px;
+    background-color: #c1ff95;
+    border: none;
+    border-radius: 10px;
+    margin: 2px;
+}
