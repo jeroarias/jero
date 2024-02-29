@@ -1,9 +1,9 @@
 import React from 'react'
-import { Profile } from '../../layouts/Profile/Profile'
-import { Navbar } from '../../layouts/Navbar/Navbar'
+import { Profile } from '../../Components/Profile/Profile'
+import { Navbar } from '../../Components/Navbar/Navbar'
 import './Colum1.css'
-import { Logo } from '../../layouts/LogoSena/Logo'
-import { Lineicon } from '../../layouts/Lineicon/icons'
+import { Logo } from '../../Components/LogoSena/Logo'
+import { Lineicon } from '../../Components/Lineicon/icons'
 
 
 export const Colum1 = () => {

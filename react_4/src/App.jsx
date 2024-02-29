@@ -1,13 +1,12 @@
-import { Colum1 } from './Components/firts_Colum/Colum1'
-import { Colum2} from './Components/second_Colum/Colum2'
+import React from "react"
+import { Home1 } from "./pages/Homes/Home1"
 
 
 function App() {
 
   return (
     <>
-        <Colum1/>
-        <Colum2/>
+      <Home1/>
     </>
   )
 }
